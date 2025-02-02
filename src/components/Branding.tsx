@@ -31,9 +31,9 @@ export const Branding = (props: any = { onShowSettings: () => { } }) => {
             </a>
 
             <div className='flex gap-5 pt-3'>
-                <a className="frame__back" href="https://tympanus.net/codrops/?p=">Article</a> 
+                <a className="frame__back" href="https://tympanus.net/codrops/?p=">Read the tutorial</a> 
+                <a className="frame__github" href="https://github.com/niccolofanton/codrops-singularity-demo">GitHub</a>
                 <a className="frame__archive" href="https://tympanus.net/codrops/demos/">All demos</a>
-                <a className="frame__github" href="https://github.com/codrops/">GitHub</a>
             </div>
 
             <nav className="frame__tags white fixed bottom-5 flex gap-5">

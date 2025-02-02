@@ -61,10 +61,10 @@ export default function LoadingScreen({
     return shown ? (
         <div className='select-none transition-opacity duration-[100ms] ease-[cubic-bezier(1,.01,.9,.97)]' style={{ ...styles.container, opacity: animation ? 0 : 1, ...containerStyles }}>
             <div>
-                <div style={{ ...styles.inner, ...innerStyles }}>
-                    <p className=' transition-all duration-[100ms]'
+                <div style={{ ...styles.inner, ...innerStyles }} className='white'>
+                    <p className='transition-all duration-[100ms] '
                         style={{
-                            filter: 'drop-shadow(0px 0px 1px rgba(255, 255, 255, 0.727))'
+                            filter: 'drop-shadow(0px 0px 1px rgba(255, 255, 255, 0.727))',
                         }} />
                     Loading...
                     <p />
