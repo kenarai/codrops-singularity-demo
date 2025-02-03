@@ -1,6 +1,6 @@
-# Title of the demo
+# SINGULARITY
 
-"SINGULARITY" demo for the tutorial on optimizing complex Three.js scenes while preserving quality
+Demo for the tutorial on optimizing complex Three.js scenes while preserving quality
 
 ![Image Title](./showcase.gif)
 
