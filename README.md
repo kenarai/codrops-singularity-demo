@@ -13,19 +13,25 @@
 Install dependencies:
 
 ```
+yarn
+
 npm install --force
 ```
 
 Compile the code for development and start a local server:
 
 ```
+yarn dev
+
 npm run dev
 ```
 
 Create the build:
 
 ```
-npm run build
+yarn build
+
+npm run build 
 ```
 
 ## Credits
