@@ -4,9 +4,9 @@ Demo for the tutorial on optimizing complex Three.js scenes while preserving qua
 
 ![Image Title](./showcase.gif)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=)
+[Article on Codrops](https://tympanus.net/codrops/2025/02/11/building-efficient-three-js-scenes-optimize-performance-while-maintaining-quality/)
 
-[Demo](https://tympanus.net/Development/.../)
+[Demo](https://singularity-codrops.netlify.app/)
 
 ## Installation
 
