@@ -57,7 +57,7 @@ Original models
 - [sly cooper](https://sketchfab.com/3d-models/sly-cooper-cane-e01de6112eae471f84c7c8625cbf5ba2)
 - [zelda rupee](https://sketchfab.com/3d-models/rubis-zelda-0efd5cbc4c3d48c6b6ab8d0a19c061ee)
 - [daxter](https://sketchfab.com/3d-models/daxter-f6d35de8cbfb4fd2ae58fe59be1fb7f4)
-- [juggernog](https://sketchfab.com/3d-models/juggernog-perk-machiene-1000b8e63bcd4da5a54f3ccbaea1930a)
+- [juggernog](https://sketchfab.com/3d-models/juggernog-perk-machine-1000b8e63bcd4da5a54f3ccbaea1930a)
 
 ## Misc
 
